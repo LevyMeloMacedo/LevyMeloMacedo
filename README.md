@@ -2,7 +2,6 @@
 
 - 🔭 Hoje eu trabalho com Analise de sistemas
 - 🌱 Estou estudando JavaScript
-- 👯 Estou em busca de trabalhar com desenvolvimento de sites
 <div align="center">
   <a href="https://github.com/LevyMeloMacedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LevyMeloMacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
